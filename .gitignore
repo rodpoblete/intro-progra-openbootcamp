@@ -50,6 +50,9 @@ replay_pid*
 .vscode/*.code-snippets
 
 # Ignore code-workspaces
-*.code-workspace
+
+# Intellij files
+.idea/
+*.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,java

@@ -15,7 +15,7 @@ además, los archivos de salida compilados se generarán en la carpeta `bin` por
 
 - [x] ejercicio tema 3 - Funciones - `src/blucles`
 - [x] ejercicio tema 4 - Sentencias de control - `src/funciones`
-- [ ] ejercicio tema 8 - Privacidad, abstracción y encapsulación
+- [x] ejercicio tema 8 - Privacidad, abstracción y encapsulación
 - [ ] ejercicio tema 9 - Herencia, polimorfismo e interfaces
 
 > DISCLAIMER: Este no es un entorno de desarrollo profesional ni mucho menos, es sólo parte del aprendizaje para alguien que nunca en su vida había tocado Java.
